@@ -32,7 +32,7 @@
 
 ###
 
-<p data-importer="text" align="left">🎓 Final-year BSc Information Technology (Computer Science & Informatics) student at the University of Johannesburg, graduating 2026<br>🛠️ I build full-stack web apps and Java-based systems — from real-time apps to biometric recognition engines<br>🌱 Currently deep in React + FastAPI land, with a side quest into Socket.IO real-time magic<br>🕹️ Fun fact: I once went down a rabbit hole recreating Nokia's Tower Bloxx — nostalgia hits different<br>⚡ Fueled by curiosity, questionable amounts of debugging, and a firm belief that clean code is self-care</p>
+<p data-importer="text" align="left">🎓 Final-year BSc Information Technology (Computer Science & Informatics) student at the University of Johannesburg<br>🛠️ I build full-stack web apps and Java-based systems<br>🌱 Currently deep in React + FastAPI land, with a side quest into Socket.IO real-time magic<br>🕹️ Fun fact: I once went down a rabbit hole recreating Nokia's Tower Bloxx — nostalgia hits different<br>⚡ Fueled by curiosity, questionable amounts of debugging, and a firm belief that clean code is self-care</p>
 
 ###
 
